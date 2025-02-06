@@ -1,0 +1,1 @@
+Hi, welcome to my first Repository, I created this Information Purpose HWID Checker for the Blaze Solutions Project, the Code is purely for Open Source purposes, if you are suited to the changes and the style will be contained in the integration of my work. Bye!
